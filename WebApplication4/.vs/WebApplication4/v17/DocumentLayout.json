@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\models\\taasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\taasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\controllers\\project1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\project1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\project1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\project1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\project1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\project1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\project1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\project1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\controllers\\tasks1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\tasks1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\controllers\\teammembers1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\teammembers1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\tasks1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\tasks1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\tasks1\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\tasks1\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\teammembers1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\teammembers1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\tasks1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\tasks1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\tasks1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\tasks1\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\views\\tasks1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\tasks1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\teammembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Migrations\\20241230120543_tt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication4\\Migrations\\20241230120543_tt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|c:\\users\\abo salah pc\\desktop\\webapplication4\\webapplication4\\models\\iatscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9360B56-BAA1-4A58-9ABC-2D60366F3119}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\iatscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Migrations\\20241230111705_t1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication4\\Migrations\\20241230111705_t1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Project1\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Project1\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Project1\\Update.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Project1\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T13:03:13.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Project1\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Project1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Project1\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Project1\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T13:01:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Project1\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Project1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Project1\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Project1\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:59:00.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Projects.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\Projects.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Projects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:06:17.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Index1.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Tasks1\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Index1.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Tasks1\\Index1.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:47:44.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Tasks1\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Tasks1\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:46:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Tasks1\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Update.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Tasks1\\Update.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:31:45.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\TeamMembers1\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\TeamMembers1\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\TeamMembers1\\Login.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\TeamMembers1\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:11:09.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Tasks1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Tasks1\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:10:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Tasks1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Views\\Tasks1\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Tasks1\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:09:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241230120543_tt1.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Migrations\\20241230120543_tt1.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241230120543_tt1.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Migrations\\20241230120543_tt1.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241230120543_tt1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:05:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241230111705_t1.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Migrations\\20241230111705_t1.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Migrations\\20241230111705_t1.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Migrations\\20241230111705_t1.cs",
+              "RelativeToolTip": "WebApplication4\\Migrations\\20241230111705_t1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:17:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IatsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\IatsContext.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\IatsContext.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\IatsContext.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\IatsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamMembers1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Controllers\\TeamMembers1Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\TeamMembers1Controller.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Controllers\\TeamMembers1Controller.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\TeamMembers1Controller.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:24.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Controllers\\Project1Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\Project1Controller.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Controllers\\Project1Controller.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\Project1Controller.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:10:52.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tasks1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Controllers\\Tasks1Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\Tasks1Controller.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Controllers\\Tasks1Controller.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\Tasks1Controller.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:10:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamMembers.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\TeamMembers.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\TeamMembers.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\TeamMembers.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\TeamMembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:08:38.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taasks.cs",
+              "DocumentMoniker": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\Taasks.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Taasks.cs",
+              "ToolTip": "C:\\Users\\ABO SALAH PC\\Desktop\\WebApplication4\\WebApplication4\\Models\\Taasks.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Taasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:03:34.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
